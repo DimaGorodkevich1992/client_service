@@ -128,7 +128,7 @@
       <file leaf-file-name="LibraryController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/controller/LibraryController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-486">
+            <state relative-caret-position="864">
               <caret line="63" column="94" selection-start-line="63" selection-start-column="61" selection-end-line="63" selection-end-column="94" />
             </state>
           </provider>
@@ -582,7 +582,7 @@
       <workItem from="1528699207695" duration="17136000" />
       <workItem from="1528724110180" duration="15519000" />
       <workItem from="1528797748167" duration="92242000" />
-      <workItem from="1529304584673" duration="17946000" />
+      <workItem from="1529304584673" duration="19270000" />
     </task>
     <servers />
   </component>
@@ -616,7 +616,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="512737000" />
+    <option name="totallyTimeSpent" value="514061000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -629,7 +629,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="1046" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -650,10 +649,10 @@
       <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.34716156" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4967983" visible="true" weight="0.17467248" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4967983" visible="true" weight="0.33842796" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32969433" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.16703057" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49880096" visible="true" weight="0.21024546" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49880096" visible="true" weight="0.21024546" />
       <window_info anchor="right" id="Bean Validation" order="3" weight="0.1638207" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" order="7" sideWeight="0.5912487" weight="0.30240175" />
@@ -1106,7 +1105,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/controller/LibraryController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-486">
+        <state relative-caret-position="864">
           <caret line="63" column="94" selection-start-line="63" selection-start-column="61" selection-end-line="63" selection-end-column="94" />
         </state>
       </provider>
