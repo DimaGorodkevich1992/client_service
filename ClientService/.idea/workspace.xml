@@ -1,0 +1,1214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11b651aa-673e-46db-a221-4b8506494b37" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ClientService$ClientServiceRunner.ic" NAME="ClientServiceRunner Coverage Results" MODIFIED="1528288302759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ClientService$test2.ic" NAME="test2 Coverage Results" MODIFIED="1527161858113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.intexsoft.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="books@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="books@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="books@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="books: database" type="6d9b600a:PostgresImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="books@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="books: database" type="6d9b600a:PostgresImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="books@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="books: database" type="6d9b600a:PostgresImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="a16502c0:PostgresImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="books@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="books: database" type="6d9b600a:PostgresImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="a16502c0:PostgresImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ClientService" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="JpaLibraryBookRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/repository/jparepository/JpaLibraryBookRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="481">
+              <caret line="43" column="28" lean-forward="true" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JpaLibraryRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/repository/jparepository/JpaLibraryRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="13" column="89" selection-start-line="13" selection-start-column="89" selection-end-line="13" selection-end-column="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JpaCommonRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/repository/jparepository/JpaCommonRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#710#711#0" expanded="true" />
+                <element signature="e#761#762#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommonService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/service/CommonService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LibraryController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/controller/LibraryController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-486">
+              <caret line="63" column="94" selection-start-line="63" selection-start-column="61" selection-end-line="63" selection-end-column="94" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JpaBookRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/repository/jparepository/JpaBookRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BookController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/controller/BookController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Autowired.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar!/org/springframework/beans/factory/annotation/Autowired.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BookService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/service/BookService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommonController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/controller/CommonController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="37" column="65" selection-start-line="37" selection-start-column="65" selection-end-line="37" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>onCom</find>
+      <find>setObject</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../testJpa" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/com/intexsoft/repository/JsonBookRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/ClientServiceRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/repository/sqlrepository/mapper/SqlBookMapper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/intexsoft/config/AppConfigTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/intexsoft/repository/SqlBookRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/repository/sqlrepository/mapper/SqlLibraryMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/repository/sqlrepository/SqlBookRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/repository/jparepository/JpaBooksLibrariesRelations.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/model/Relations.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/controller/dtomapper/AbstractDtoMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/config/AppConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/dto/BookLibrariesDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/dto/BookLibrariesKeyDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/model/BooksLibrariesKey.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/intexsoft/repository/JpaBookRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/model/BooksLibraries.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/dto/BooksLibraries.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/repository/jparepository/JpaBookLibraryRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/repository/BookRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/dto/CommonDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/dto/BookDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/dto/LibraryDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/dto/BooksLibrariesDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/repository/BookLibraryRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/dto/LibrariesBooksDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/controller/dtomapper/BookDtoMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/service/LibraryBookService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/dto/LibaruBookDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/controller/dtomapper/LibraryBookDtoMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/dto/LibraryBookDto.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/db/migration/V3__add_books_libraries.sql" />
+        <option value="$PROJECT_DIR$/src/main/resources/db/migration/V2__add_library.sql" />
+        <option value="$PROJECT_DIR$/src/main/resources/db/migration/V1__init_db.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/model/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/model/Library.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/model/LibraryBookId.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/repository/jsonrepository/JsonCommonRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/controller/LibraryController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/model/LibraryBook.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/model/CommonModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/repository/jparepository/JpaBookRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/repository/jparepository/JpaLibraryRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/repository/CommonRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/repository/LibraryBookRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/service/BookService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/service/LibraryService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/service/CommonService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/repository/jparepository/JpaCommonRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/repository/jparepository/JpaLibraryBookRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intexsoft/controller/BookController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ClientService" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ClientService" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ClientService" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ClientService" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="flyway" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="297" />
+    <option name="width" value="1416" />
+    <option name="height" value="881" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="ClientService" type="cbb8eebc:String" user="ClientService" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="ClientService" type="cbb8eebc:String" user="ClientService" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="ClientService" type="cbb8eebc:String" user="ClientService" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="main" type="cbb8eebc:String" user="main" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="ClientService" type="cbb8eebc:String" user="ClientService" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="main" type="cbb8eebc:String" user="main" />
+              <item name="java" type="cbb8eebc:String" user="java" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ClientService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClientService" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClientService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClientService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClientService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClientService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClientService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClientService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClientService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClientService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="intexsoft" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClientService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClientService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="intexsoft" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClientService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClientService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="intexsoft" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClientService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClientService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="intexsoft" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClientService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClientService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="intexsoft" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+              <item name="jparepository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClientService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClientService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="intexsoft" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClientService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClientService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClientService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClientService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="migration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClientService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClientService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClientService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClientService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClientService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClientService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="intexsoft" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClientService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClientService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="intexsoft" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SONARLINT_ISSUES_SPLIT_PROPORTION" value="0.45114008" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="PostgreSQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.intexsoft.controller" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.intexsoft.repository.jparepository" />
+      <recent name="com.intexsoft.repository.jsonrepository" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/intexsoft/controller/srevlet" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ClientServiceRunner" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ClientService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.intexsoft.ClientServiceRunner" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11b651aa-673e-46db-a221-4b8506494b37" name="Default" comment="" />
+      <created>1526997297283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526997297283</updated>
+      <workItem from="1526997300387" duration="2491000" />
+      <workItem from="1526999807298" duration="46224000" />
+      <workItem from="1527156452299" duration="28778000" />
+      <workItem from="1527244490293" duration="16061000" />
+      <workItem from="1527488291208" duration="29432000" />
+      <workItem from="1527572401087" duration="27200000" />
+      <workItem from="1527660637786" duration="52403000" />
+      <workItem from="1527834948882" duration="269000" />
+      <workItem from="1527835354155" duration="21754000" />
+      <workItem from="1527859112432" duration="5679000" />
+      <workItem from="1528093994612" duration="73570000" />
+      <workItem from="1528279898463" duration="44396000" />
+      <workItem from="1528439931405" duration="21637000" />
+      <workItem from="1528699207695" duration="17136000" />
+      <workItem from="1528724110180" duration="15519000" />
+      <workItem from="1528797748167" duration="92242000" />
+      <workItem from="1529304584673" duration="17946000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SqlBookRepositoryTest - 2018.06.11 at 10h 10m 19s.xml">
+      <configuration name="SqlBookRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SqlBookRepositoryTest - 2018.06.11 at 10h 10m 43s.xml">
+      <configuration name="SqlBookRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SqlBookRepositoryTest_saveBookCorrect - 2018.06.11 at 10h 11m 55s.xml">
+      <configuration name="SqlBookRepositoryTest.saveBookCorrect" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SqlBookRepositoryTest_saveBookCorrect - 2018.06.11 at 10h 13m 41s.xml">
+      <configuration name="SqlBookRepositoryTest.saveBookCorrect" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SqlBookRepositoryTest - 2018.06.11 at 10h 15m 15s.xml">
+      <configuration name="SqlBookRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SqlBookRepositoryTest_saveBookCorrect - 2018.06.11 at 10h 16m 45s.xml">
+      <configuration name="SqlBookRepositoryTest.saveBookCorrect" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SqlBookRepositoryTest - 2018.06.11 at 10h 19m 17s.xml">
+      <configuration name="SqlBookRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SqlBookRepositoryTest - 2018.06.11 at 10h 20m 23s.xml">
+      <configuration name="SqlBookRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SqlBookRepositoryTest - 2018.06.11 at 10h 23m 43s.xml">
+      <configuration name="SqlBookRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="512737000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1922" height="1046" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" x="32" y="142" width="1874" height="630" id="Event Log" order="7" sideWeight="0.5032017" side_tool="true" type="FLOATING" weight="0.5720524" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.18569905" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" weight="0.19743863" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49733192" weight="0.26637554" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32969433" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.115720525" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.34716156" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4967983" visible="true" weight="0.17467248" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32969433" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.16703057" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49880096" visible="true" weight="0.21024546" />
+      <window_info anchor="right" id="Bean Validation" order="3" weight="0.1638207" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" order="7" sideWeight="0.5912487" weight="0.30240175" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" sideWeight="0.50119907" side_tool="true" weight="0.2145144" />
+      <window_info anchor="bottom" id="Inspection Results" order="7" weight="0.28275108" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32977587" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="9" weight="0.20524018" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.17030568" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32969433" />
+      <window_info anchor="bottom" id="Database Console" order="16" weight="0.32969433" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4967983" visible="true" weight="0.13537118" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.50119907" side_tool="true" weight="0.2145144" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.16703057" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Inspection Results" order="9" weight="0.28275108" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" x="32" y="142" width="1874" height="630" id="Event Log" order="10" sideWeight="0.5032017" side_tool="true" type="FLOATING" weight="0.5720524" />
+      <window_info anchor="right" id="Key Promoter X" order="5" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.22707424" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32969433" />
+      <window_info anchor="bottom" id="SonarLint" order="11" sideWeight="0.5912487" weight="0.34934497" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.34716156" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.18569905" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49880096" visible="true" weight="0.2145144" />
+      <window_info anchor="right" id="Database" order="7" weight="0.19743863" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.32977587" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969433" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.1638207" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49733192" weight="0.13537118" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/intexsoft/Main.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/intexsoft/repository/sqlrepository/SqlCommonRepository.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/intexsoft/controller/dtomapper/AbstractDtoMapper.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="283" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/intexsoft/controller/dtomapper/AbstractDtoMapper.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="304" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-defaults>
+        <breakpoint suspend="THREAD" type="java-line" />
+      </breakpoints-defaults>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="317" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/repository/jsonrepository/holders/JsonData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/repository/jsonrepository/holders/JsonDataHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-630">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.4.RELEASE/spring-aop-5.0.4.RELEASE.jar!/org/springframework/aop/framework/ReflectiveMethodInvocation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="35" column="66" selection-start-line="35" selection-start-column="66" selection-end-line="35" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.0.4.RELEASE/spring-tx-5.0.4.RELEASE.jar!/org/springframework/transaction/interceptor/TransactionAspectSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="54" column="283" selection-start-line="54" selection-start-column="283" selection-end-line="54" selection-end-column="283" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-orm/5.0.4.RELEASE/spring-orm-5.0.4.RELEASE.jar!/org/springframework/orm/jpa/SharedEntityManagerCreator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="47" column="149" selection-start-line="47" selection-start-column="149" selection-end-line="47" selection-end-column="149" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/java/jdk1.8.0_171/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="193" selection-start-line="193" selection-end-line="193" />
+          <folding>
+            <element signature="e#6249#6250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.14.Final/hibernate-core-5.2.14.Final-sources.jar!/org/hibernate/annotations/Fetch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/aa9b3367-d7c8-45b8-a3e5-29071ce5c881/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/dto/BookLibrariesKeyDto.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/controller/dtomapper/LibraryDtoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/repository/jsonrepository/JsonBookRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/java/jdk1.8.0_171/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/controller/filter/AuthFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/service/LibraryBookService.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/intexsoft/repository/JpaBookRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="41" column="80" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/dto/LibraryBookDto.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/controller/dtomapper/LibraryBookDtoMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/dto/BookDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/dto/LibraryBookDto.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/db/migration/V3__add_books_libraries.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="118" selection-start-line="13" selection-start-column="118" selection-end-line="13" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/db/migration/V1__init_db.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/db/migration/V2__add_library.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="66" lean-forward="true" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/controller/dtomapper/BookDtoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="11" column="74" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/controller/dtomapper/AbstractDtoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/repository/jsonrepository/JsonCommonRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.4.RELEASE/spring-core-5.0.4.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="33" column="110" selection-start-line="33" selection-start-column="110" selection-end-line="33" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.4.RELEASE/spring-aop-5.0.4.RELEASE.jar!/org/springframework/aop/framework/CglibAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="94" column="209" selection-start-line="94" selection-start-column="209" selection-end-line="94" selection-end-column="209" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/model/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/model/LibraryBookId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/dto/CommonDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/dto/LibraryDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/model/Library.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/model/LibraryBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/model/CommonModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/repository/LibraryRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/repository/BookRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/repository/CommonRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/ClientServiceRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/repository/LibraryBookRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/service/LibraryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="29" column="74" selection-start-line="29" selection-start-column="74" selection-end-line="29" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/service/CommonService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/service/BookService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/repository/jparepository/JpaBookRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/repository/jparepository/JpaCommonRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/repository/jparepository/JpaLibraryBookRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="43" column="28" lean-forward="true" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/repository/jparepository/JpaLibraryRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" column="89" selection-start-line="13" selection-start-column="89" selection-end-line="13" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar!/org/springframework/beans/factory/annotation/Autowired.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/controller/BookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/controller/CommonController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="37" column="65" selection-start-line="37" selection-start-column="65" selection-end-line="37" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intexsoft/controller/LibraryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-486">
+          <caret line="63" column="94" selection-start-line="63" selection-start-column="61" selection-end-line="63" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ClientService</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
